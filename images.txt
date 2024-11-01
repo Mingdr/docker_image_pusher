@@ -4,3 +4,4 @@ apache/rocketmq:latest
 mysql
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+axboy/leanote
