@@ -11,3 +11,4 @@ valkey/valkey:8
 infiniflow/infinity:v0.6.0-dev3
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 node
+ghcr.io/huggingface/text-embeddings-inference:cpu-0.3.0
