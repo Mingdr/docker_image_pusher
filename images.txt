@@ -7,4 +7,4 @@ mysql:8.0.39
 qdrant/qdrant
 postgres:15-alpine
 nginx:latest
-python:3.11-slim⁠
+python:3.11.11-slim
