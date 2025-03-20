@@ -2,7 +2,7 @@ nginx
 #支持私库
 apache/rocketmq:latest
 mysql:8.0.39
-#支持指定架构
+#
 #--platform=linux/arm64 xiaoyaliu/alist
 qdrant/qdrant
 postgres:15-alpine
