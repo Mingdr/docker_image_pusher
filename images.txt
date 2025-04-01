@@ -1,7 +1,7 @@
 nginx
 #支持私库
 apache/rocketmq:latest
-mysql:8.0.39
+mysql:8.0.41
 #
 #--platform=linux/arm64 xiaoyaliu/alist
 qdrant/qdrant
