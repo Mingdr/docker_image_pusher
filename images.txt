@@ -1,13 +1,13 @@
-nginx
+#nginx
 #支持私库
-apache/rocketmq:latest
-mysql:8.0.41
+#apache/rocketmq:latest
+#mysql:8.0.41
 #
 #--platform=linux/arm64 xiaoyaliu/alist
-qdrant/qdrant
-postgres:15-alpine
-nginx:latest
-python:3.11.11-slim
-python:3.10.12-slim
-infiniflow/ragflow:nightly
+#qdrant/qdrant
+#postgres:15-alpine
+#nginx:latest
+#python:3.11.11-slim
+#python:3.10.12-slim
+#infiniflow/ragflow:nightly
 prefecthq/prefect:3-latest
