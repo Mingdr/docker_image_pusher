@@ -11,3 +11,4 @@
 #python:3.10.12-slim
 #infiniflow/ragflow:nightly
 prefecthq/prefect:3-latest
+jasonish/suricata:7.0.11
