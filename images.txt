@@ -9,6 +9,6 @@
 #nginx:latest
 #python:3.11.11-slim
 #python:3.10.12-slim
-#infiniflow/ragflow:nightly
+photoprism/photoprism
 prefecthq/prefect:3-latest
 jasonish/suricata:7.0.11
