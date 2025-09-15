@@ -13,6 +13,6 @@ ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:32324a2f41
 docker.io/valkey/valkey:8-bookworm@sha256:a137a2b60aca1a75130022d6bb96af423fefae4eb55faf395732db3544803280
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
-
+ghcr.io/freeok/sonovel:latest
 prefecthq/prefect:3-latest
 jasonish/suricata:7.0.11
